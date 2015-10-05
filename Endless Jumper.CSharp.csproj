@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
     <Compile Include="Assets\Scripts\Platform\Platform.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Score\ScoreSystem.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
